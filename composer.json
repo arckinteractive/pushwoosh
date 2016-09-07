@@ -1,0 +1,26 @@
+{
+	"name": "arckinteractive/pushwoosh",
+	"type": "elgg-plugin",
+	"description": "Pushwoosh integration for Elgg",
+	"homepage": "http://arckinteractive.com",
+	"keywords": [
+		"elgg", "plugin", "mobile", "notifications", "pushwoosh"
+	],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Matt Beckett",
+			"email": "matt@arckinteractive.com"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"": "classes/"
+		}
+	},
+	"require": {
+		"php": ">=5.4",
+		"composer/installers": "1.0.*",
+		"gomoob/php-pushwoosh": "~1.0"
+	}
+}
