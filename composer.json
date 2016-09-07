@@ -6,7 +6,7 @@
 	"keywords": [
 		"elgg", "plugin", "mobile", "notifications", "pushwoosh"
 	],
-	"license": "GPL-2.0",
+	"license": "GPL-3.0",
 	"authors": [
 		{
 			"name": "Matt Beckett",
